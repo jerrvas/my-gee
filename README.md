@@ -28,11 +28,11 @@ Open `index.html` in any modern browser to see the magic!
 - Adjust snow density in JavaScript
 
 ##  Project Structure
-
+```
 /
 ├── index.html      # Main structure
 ├── style.css       # Styling & animations
 └── script.js       # Tree logic & effects
-
+```
 
 ##  Merry Christmas! 🎄
